@@ -1,15 +1,19 @@
-# Software Engineering Lab Repositories
+# Software Engineering Labs Repository
 
-This repository contains links to all my Software Engineering lab assignments.
 
-## Lab Repositories
+## Lab Submissions
 
-1. (https://github.com/Shreyas37-p/SE-assignment)
+### Lab 3 – 
+https://github.com/Shreyas37-p/SE-assignment
 
-2. (https://github.com/Shreyas37-p/CICD-demo)
+### CI/CD Demo
+https://github.com/Shreyas37-p/CICD-demo
 
-3. (https://github.com/Shreyas37-p/L5_62_voting-election-system)
+### Lab 5 – Static Code Analysis
+https://github.com/Shreyas37-p/L5_62_voting-election-system
 
-4. (https://github.com/Shreyas37-p/L6_L7_61_credit_card_rewards)
+### Lab 6 & Lab 7 –
+https://github.com/Shreyas37-p/L6_L7_61_credit_card_rewards
 
-5. (https://github.com/Shreyas37-p/61_math_flashcards)
+### Lab4- 
+https://github.com/Shreyas37-p/61_math_flashcards
